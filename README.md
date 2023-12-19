@@ -1,11 +1,11 @@
 ![Header](https://i.ibb.co/Tm56Kf7/Black-Minimal-Motivation-Quote-Linked-In-Banner.png)
 
 <h3 align="center">A passionate web developer specializing in PHP</h3>
-<img align="right" width="400" src="https://i.ibb.co/q7Vtzhh/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianstefanust&label=Profile%20views&color=0e75b6&style=flat" alt="adrianstefanust" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianstefanust" alt="adrianstefanust" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://adrianstefanust.github.io/](https://adrianstefanust.github.io/)
 
